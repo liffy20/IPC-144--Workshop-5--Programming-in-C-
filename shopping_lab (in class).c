@@ -1,8 +1,5 @@
 // Workshop 5 In Class //
 
-// By: Daniel Lifchitz//
-
-// St ID: 107719163//
 
 
 
