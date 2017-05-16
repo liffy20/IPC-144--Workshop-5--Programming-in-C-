@@ -1,6 +1,5 @@
-// Workshop 5 In Class //
-// By: Daniel Lifchitz//
-// St ID: 107719163//
+// Workshop 5 at home//
+
 
 #include <stdio.h>
 
